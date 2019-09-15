@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tictactoe</string>
+    <string name="first_human">Juegas primero.</string>
+    <string name="turn_human">Tu turno.</string>
+    <string name="turn_computer">Turno del Celular.</string>
+    <string name="result_tie">Es un empate!.</string>
+    <string name="result_human_wins">Tu ganas!</string>
+    <string name="result_computer_wins">El celular gana!</string>
+    <string name="first_android">Turno del Celular</string>
+</resources>
