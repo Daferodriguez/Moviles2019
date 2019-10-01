@@ -1,0 +1,4 @@
+#Mon Sep 30 22:41:17 COT 2019
+base.0=E\:\\david\\moviles\\Clonado\\Moviles2019\\Reto5\\Tictactoe\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
