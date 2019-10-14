@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="victory_message"
+        android:title="Mensaje de victoria"
+        android:defaultValue="@string/result_human_wins"
+        android:summary=""/>
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="Sonido"
+        android:summary="Apaga o prende el sonido"
+        android:title="Sound" />
+    <ListPreference
+        android:key="difficulty_level"
+        android:title="Dificultad"
+        android:summary=""
+        android:defaultValue="@string/difficulty_expert"
+        android:entries="@array/list_difficulty_level"
+        android:entryValues="@array/list_difficulty_level" />
+
+</PreferenceScreen>
